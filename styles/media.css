@@ -1,0 +1,22 @@
+@media (max-width:566px) {
+    .container{
+        flex-direction: column;
+    }
+    textarea{
+        margin-left: 27px;
+    }
+}
+
+@media (max-width:566px) {
+    .maincontent{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media (max-width:555px) {
+    .reflex img {
+        flex-direction: column;
+    }
+}
